@@ -29,7 +29,7 @@ public class asdasd extends Composite {
 		
 		Label lblPreguntaTipoTest = new Label(this, SWT.NONE);
 		lblPreguntaTipoTest.setBounds(37, 22, 182, 20);
-		lblPreguntaTipoTest.setText("Pregunta tipo testkkk y");
+		lblPreguntaTipoTest.setText("Question");
 
 	}
 
