@@ -21,7 +21,7 @@ public class asdasd extends Composite {
 		
 		Button btnCheckButton_1 = new Button(this, SWT.CHECK);
 		btnCheckButton_1.setBounds(59, 111, 111, 20);
-		btnCheckButton_1.setText("Check Button");
+		btnCheckButton_1.setText("Check Button d d");
 		
 		Button btnCheckButton_2 = new Button(this, SWT.CHECK);
 		btnCheckButton_2.setBounds(59, 165, 111, 20);
